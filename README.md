@@ -1,8 +1,7 @@
-# ProtonDatalabs AI developer Assignment - Chatbot application
+#  Chatbot application
 
 ## Preface
 
-At ProtonDatalabs, we leverage cutting-age gen-AI solutions to deliver buisness value to our clients. We are able to do this by combining aspects from AI modelling to full-stack developement.
 
 In this assignment, your task is to build a chatbot application which takes a file as an input and answers user's query. The goal of this application is to accurately provide answers based on the uploaded file. This application could be used as an assistant to quickly answer questions or summarize facts from files containing large amounts of text data, making our lives easier.
 
